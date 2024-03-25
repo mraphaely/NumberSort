@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(137, 43, 226, 0.445);
+    margin: 0 auto;
+    text-align: center;
+    font-size: large;
+}
+input{  
+  border-radius: 5px;
+  background-color: rgba(137, 43, 226, 0.493);
+  font-size: medium;
+}
+#btnApostar{
+    background-color: rgba(0, 255, 106, 0.637);
+}
