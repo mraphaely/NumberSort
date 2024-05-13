@@ -7,13 +7,9 @@ body{
 }
 input{  
   border-radius: 5px;
-  background-color: rgba(137, 43, 226, 0.372);
+  background-color: ghostwhite;
   font-size: medium;
-  color: #fff;
-  color: white;
 }
 #btnApostar{
     background-color: green;
-    color: #fff;
-    color: ghostwhite;
 }
