@@ -10,8 +10,10 @@ input{
   background-color: rgba(137, 43, 226, 0.372);
   font-size: medium;
   color: #fff;
+  color: white;
 }
 #btnApostar{
     background-color: green;
     color: #fff;
+    color: ghostwhite;
 }
