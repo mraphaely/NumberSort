@@ -1,15 +1,17 @@
 body{
     background-color: #000;
-    color: #fff;
     margin: 0 auto;
     text-align: center;
     font-size: large;
+    color: #fff;
 }
 input{  
   border-radius: 5px;
-  background-color: rgba(137, 43, 226, 0.493);
+  background-color: rgba(137, 43, 226, 0.372);
   font-size: medium;
+  color: #fff;
 }
 #btnApostar{
-    background-color: rgba(0, 255, 106, 0.637);
+    background-color: green;
+    color: #fff;
 }
